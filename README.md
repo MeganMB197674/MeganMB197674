@@ -15,4 +15,7 @@
   <h3 align="left">
     About Me:raising_hand::
   </h3>
-*
+<ul>
+  <li>
+    :mortar_board:I study computer science at the University of Advancing Technology in Tempe, AZ remotely from my home.
+  </li>
