@@ -27,7 +27,7 @@
   <li>
     🏡In my spare time, I enjoy expanding on my development skills, travel, and lots of exercise.
   </li>
-<h2 align="left">
+<h3 align="left">
 Languages & Environments:
   
-</h2>
+</h3>
