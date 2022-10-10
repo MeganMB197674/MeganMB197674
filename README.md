@@ -5,7 +5,7 @@
   <!-- The code below is for my LinkedIn -->
   <p>
   <a href="https://www.linkedin.com/in/megan-b-3605a01b8/" rel="nofollow noreferrer">
-    <img src="https://user-images.githubusercontent.com/94564195/194918099-91319cf7-06ae-4a01-b67a-0378740586bc.jpg" alt="linkedin"> LinkedIn
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"> LinkedIn
   </a> &nbsp; 
     <!-- The code below is for "hello" & wave emoji -->
 <h2 align="center">
