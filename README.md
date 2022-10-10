@@ -10,11 +10,11 @@
     <img src="https://komarev.com/ghpvc/?username=MeganMB197674&color=red&style=plastic">
     <!-- The code below is for "hello" & wave emoji -->
 <h2 align="center">
-  Hello, and welcome to my GitHub:wave:
+  Hello, welcome to my Github:wave:
    </h2>
   <h3 align="left">
     About Me:raising_hand::
   </h3>
  <p>
- 
+ *
  </p>
