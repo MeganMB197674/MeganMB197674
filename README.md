@@ -15,6 +15,4 @@
   <h3 align="left">
     About Me:raising_hand::
   </h3>
- <p>
- *
- </p>
+*
