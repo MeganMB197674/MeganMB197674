@@ -25,7 +25,7 @@
   </li>
     <br>
   <li>
-    🏡In my spare time, I enjoy expanding on my development skills, travel, and lots of exercise.
+    🏡In my spare time, I enjoy expanding my development skills, travel, and lots of exercise.
   </li>
   </ul>
   <h3 align="left">
