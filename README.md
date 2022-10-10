@@ -25,5 +25,5 @@
   </li>
     <br>
   <li>
-    🏡In my spare time, I enjoy practicing my development skills, travel, and exercise.
+    🏡In my spare time, I enjoy expanding on my development skills, travel, and lots of exercise.
   </li>
