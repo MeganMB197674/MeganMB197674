@@ -1,4 +1,7 @@
-<p align="center">
+<h1 align="center">
   Hello!:wave:
-   </p>
-  [Coding gif](https://user-images.githubusercontent.com/94564195/194909212-d7eb50da-5cfd-46d4-9967-21acbcae28a5.gif)
+   </h1>
+ <p align="center">
+![Coding gif](https://user-images.githubusercontent.com/94564195/194909980-f3ffa2a1-0bc2-48cb-b924-94641c6ca24b.gif)
+
+</p>
