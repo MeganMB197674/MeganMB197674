@@ -23,6 +23,7 @@
   <li>
    🖥️I enjoy practice where I can find it, so I am always up for teamwork!
   </li>
+    <br>
   <li>
     🏡In my spare time, I enjoy practicing my development skills, travel, and exercise.
   </li>
