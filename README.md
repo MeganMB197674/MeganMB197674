@@ -29,7 +29,7 @@
   </li>
   </ul>
   <h3 align="left">
-✒:wrench:Languages & Tools:
+:wrench:Languages & Tools:
 </h3>
 <p>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
