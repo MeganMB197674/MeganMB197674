@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/megan-b-3605a01b8/" rel="nofollow noreferrer">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white" alt="linkedin">
   </a> &nbsp; 
-    <img src="https://komarev.com/ghpvc/?username=MeganMB197674&color=red&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=MeganMB197674&color=red&style=plastic">
     <!-- The code below is for "hello" & wave emoji -->
 <h2 align="center">
   Hello, and welcome to my GitHub:wave:
