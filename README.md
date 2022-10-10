@@ -17,8 +17,11 @@
   </h3>
 <ul>
   <li>
-    :mortar_board:I study computer science at the University of Advancing Technology in Tempe, AZ remotely from my home.
+    📚I study computer science at the University of Advancing Technology in Tempe, AZ remotely from my home.
   </li>
   <li>
-    I earned an assiciate's degree in business administration & management in 2019.
+   🖥️I enjoy practice where I can find it, so I am always up for teamwork!
+  </li>
+  <li>
+    🏡In my spare time, I enjoy practicing my development skills, travel, and exercise.
   </li>
