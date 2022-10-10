@@ -9,5 +9,8 @@
   </a> &nbsp; 
     <!-- The code below is for "hello" & wave emoji -->
 <h2 align="center">
-  Hello!:wave:
+  Hello, and welcome to my GitHub:wave:
    </h2>
+  <h3 align="left">
+    About Me:
+  </h3>
