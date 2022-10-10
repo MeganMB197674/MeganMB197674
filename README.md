@@ -13,6 +13,8 @@
   Hello, and welcome to my GitHub:wave:
    </h2>
   <h3 align="left">
-    About Me:
+    About Me:raising_hand::
   </h3>
+ <p>
  
+ </p>
