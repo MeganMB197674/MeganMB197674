@@ -19,6 +19,7 @@
   <li>
     📚I study computer science at the University of Advancing Technology in Tempe, AZ remotely from my home.
   </li>
+  <br>
   <li>
    🖥️I enjoy practice where I can find it, so I am always up for teamwork!
   </li>
