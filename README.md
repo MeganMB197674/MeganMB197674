@@ -13,7 +13,7 @@
   Hello, welcome to my Github:wave:
    </h2>
   <h3 align="left">
-    About Me:raising_hand::
+    About Me:raising_hand:
   </h3>
 <ul>
   <li>
@@ -29,7 +29,7 @@
   </li>
   </ul>
   <h3 align="left">
-:wrench:Languages & Tools:
+:wrench:Languages & Tools
 </h3>
 <p>
   <h4> Proficiency in: </h4>
